@@ -6,7 +6,7 @@ Overall description: Run PCA on a VCF, phase data, convert phased data to RFMix 
 
 This repo currently gives information about how to run through phasing, local ancestry inference, generate collapsed bed files, plot karyograms, estimate global ancestry proportion from local ancestry proportions, generate and run ASPCA, and run TRACTS to model migration events, proportions, and timings.
 
-Planned pipleine modifications include: identity by descent analysis, ADMIXTURE, and potentially neandertal introgression.
+Planned pipeline modifications include: identity by descent analysis, ADMIXTURE, and potentially neandertal introgression.
 
 ## Citation ##
 

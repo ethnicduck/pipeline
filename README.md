@@ -1,4 +1,3 @@
-=================
 Ancestry pipeline
 =================
 This repository was initially cloned from https://github.com/armartin/ancestry_pipeline (see citation below).

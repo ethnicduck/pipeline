@@ -1,6 +1,6 @@
 Ancestry pipeline
 =================
-This repository was initially cloned from https://github.com/armartin/ancestry_pipeline (see citation below).
+This repository was initially cloned from https://github.com/armartin/ancestry_pipeline (see citation below), and maintains much of the workflow from that repository. Additional programs will be incorporated into the pipeline over time.
 
 Overall description: Run PCA on a VCF, phase data, convert phased data to RFMix format, run local ancestry with RFMix, collapse RFMix output into bed files, alter bed files, plot karyograms, estimate global ancestry proportions, run TRACTS, generate PCAMask input, run PCA on PCAMask output (ASPCA).
 
